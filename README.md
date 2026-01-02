@@ -43,9 +43,8 @@ chmod +x pyaudit.py
 
 ## 📸 Screenshots
 
-![Interface do PyAudit](Captura de Tela 2026-01-02 às 19.23.51.jpg)
+![Interface do PyAudit](./Captura de Tela 2026-01-02 às 19.23.51.jpg)
 
-*(Certifique-se de que a imagem está na aba Code com este nome exato)*
 
 ## 🧠 Aprendizados
 Este projeto foi desenvolvido para aprofundar conhecimentos em:
