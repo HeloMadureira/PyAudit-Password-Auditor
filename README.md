@@ -24,22 +24,29 @@ Diferente de scripts simples, o PyAudit foi construído com uma **arquitetura mo
 ### Como rodar
 
 **1. Clone o repositório:**
-git clone https://www.google.com/search?q=https://github.com/HeloMadureira5/PyAudit.git cd PyAudit
+``` bash
+git clone https://www.google.com/search?q=https://github.com/HeloMadureira5/PyAudit.git
+```
 
 
 **2. Dê permissão de execução:**
+``` bash
+cd PyAudit
 chmod +x pyaudit.py
-
+```
 
 **3. Execute a ferramenta:**
 
 *Modo de Análise (Apenas identifica o tipo da hash):*
+``` bash
 ./pyaudit.py -f seu_arquivo.txt -m analise
+```
 
 
 *Modo de Ataque (Tenta quebrar a senha):*
+``` bash
 ./pyaudit.py -f seu_arquivo.txt -m ataque
-
+```
 
 ## 📸 Screenshots
 
